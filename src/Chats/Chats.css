@@ -1,0 +1,34 @@
+.all-chat {
+  background-color: lightsteelblue;
+  height: 50vh;
+  text-align: left;
+  width: 100%; 
+}
+
+.chat-box {
+  height: auto;
+  overflow: auto;
+  padding: 20px;
+  background-color: lightyellow;
+}
+
+.friend-image {
+  width: 8vh;
+  height: 8vh;
+  margin-right: 15px;
+  border-radius: 100%;
+  border: 2px solid black;
+  float: left;
+}
+.friend-info {
+  height: 8vh;
+  overflow-y: hidden;
+}
+
+.friend-name {
+  height: 50%;
+}
+
+.friend-msg {
+  height: 50%;
+}
