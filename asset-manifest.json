@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tango-insta_messenger/static/css/main.93c1dd5e.chunk.css",
-    "main.js": "/tango-insta_messenger/static/js/main.04501f82.chunk.js",
-    "main.js.map": "/tango-insta_messenger/static/js/main.04501f82.chunk.js.map",
+    "main.css": "/tango-insta_messenger/static/css/main.2189f09f.chunk.css",
+    "main.js": "/tango-insta_messenger/static/js/main.8f9fb817.chunk.js",
+    "main.js.map": "/tango-insta_messenger/static/js/main.8f9fb817.chunk.js.map",
     "runtime-main.js": "/tango-insta_messenger/static/js/runtime-main.e78455d8.js",
     "runtime-main.js.map": "/tango-insta_messenger/static/js/runtime-main.e78455d8.js.map",
-    "static/js/2.3f8b5589.chunk.js": "/tango-insta_messenger/static/js/2.3f8b5589.chunk.js",
-    "static/js/2.3f8b5589.chunk.js.map": "/tango-insta_messenger/static/js/2.3f8b5589.chunk.js.map",
+    "static/js/2.460f0222.chunk.js": "/tango-insta_messenger/static/js/2.460f0222.chunk.js",
+    "static/js/2.460f0222.chunk.js.map": "/tango-insta_messenger/static/js/2.460f0222.chunk.js.map",
     "index.html": "/tango-insta_messenger/index.html",
-    "static/css/main.93c1dd5e.chunk.css.map": "/tango-insta_messenger/static/css/main.93c1dd5e.chunk.css.map",
-    "static/js/2.3f8b5589.chunk.js.LICENSE.txt": "/tango-insta_messenger/static/js/2.3f8b5589.chunk.js.LICENSE.txt"
+    "static/css/main.2189f09f.chunk.css.map": "/tango-insta_messenger/static/css/main.2189f09f.chunk.css.map",
+    "static/js/2.460f0222.chunk.js.LICENSE.txt": "/tango-insta_messenger/static/js/2.460f0222.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e78455d8.js",
-    "static/js/2.3f8b5589.chunk.js",
-    "static/css/main.93c1dd5e.chunk.css",
-    "static/js/main.04501f82.chunk.js"
+    "static/js/2.460f0222.chunk.js",
+    "static/css/main.2189f09f.chunk.css",
+    "static/js/main.8f9fb817.chunk.js"
   ]
 }
