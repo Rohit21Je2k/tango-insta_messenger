@@ -17,10 +17,6 @@
     "static/css/main.8d7b8985.chunk.css",
     "static/js/main.6bf41126.chunk.js"
   ],
-  "redirects": {
-    
-    "redirect_to": "index.html",
-    "try_files": "true"
-  }
+ 
   
   }
